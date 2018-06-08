@@ -1,17 +1,9 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "templet"
 version = "1.0.1-1"
--- LuaDist source
 source = {
-  tag = "1.0.1-1",
-  url = "git://github.com/LuaDist-testing/templet.git"
+   url = "git://git.colberg.org/lua-templet",
+   tag = "1.0.1",
 }
--- Original source
--- source = {
---    url = "git://git.colberg.org/lua-templet",
---    tag = "1.0.1",
--- }
 description = {
    summary = "Templet for Lua",
    detailed = [[
